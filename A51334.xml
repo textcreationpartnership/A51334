@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A More exact and full relation of the horrid and cruel murther lately committed upon Cossuma Albertus, a Prince of Transilvania, by his own servants with an account of the place where, the time when and the manner how he was murthered : and also how the murtherers made their escape to London with their princes treasure ... here is also the true coppy of a letter from the mayor of Rochester ... wherein is expressed in what great pomp and state this great prince was intered in the cathedral church at Rochester.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51334</idno><idno type="EEBO-CITATION">10070679</idno>
+  <idno type="VID">44498</idno>
+  <idno type="EEBO-PROQUEST">2240946951</idno>
+  
+            <idno type="STC">Wing M2697</idno>
+            <idno type="STC">ESTC R27661</idno>
+            <idno type="OCLC">10070679</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A51334)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44498)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1336:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A More exact and full relation of the horrid and cruel murther lately committed upon Cossuma Albertus, a Prince of Transilvania, by his own servants with an account of the place where, the time when and the manner how he was murthered : and also how the murtherers made their escape to London with their princes treasure ... here is also the true coppy of a letter from the mayor of Rochester ... wherein is expressed in what great pomp and state this great prince was intered in the cathedral church at Rochester.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by R. Vaughan,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Murder --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44498:1"/>
+            <pb facs="tcp:44498:1"/>
+            <p>A more Exact and Full RELATION Of the HORRID and CRUEL MURTHER Lately committed upon Cossuma Albertus A PRINCE of <hi>Transilvania,</hi> by his own Servants.</p>
+            <p>With an Account of the place where, the time when, and the man<g ref="char:EOLhyphen"/>ner how he was Murthered: And also how the Murtherers made their escape to <hi>London</hi> with their Princes Treasure.</p>
+            <p>And also how Mr. <hi>Nathaniel Mannock</hi> a Grocer, living in <hi>Leaden-hall Street,</hi> saw and handled the Body of this Prince after he was murthered, and brought the news to <hi>London;</hi> where he with the assistance of Captain <hi>Blaney,</hi> Cap<g ref="char:EOLhyphen"/>tain <hi>Wilmore,</hi> both of <hi>Burchen-lane,</hi> and Mr. <hi>Ecclestone</hi> one of the Lord Mayors Officers found out these Murtherers, seized them, and carried them before the Lord Mayor of <hi>London.</hi>
+            </p>
+            <p>And also how they were examined by his Lordship, in the presence of her Highness the Dutches of <hi>Albemerl,</hi> and her Son the young Lord <hi>Monk,</hi> Sir <hi>Thomas Allin,</hi> Sir <hi>Thomas Bloodworth,</hi> with seve<g ref="char:EOLhyphen"/>ral other Persons of Honour who desired to hear the examination.</p>
+            <p>Here is also the true Coppy of a Letter from the Mayor of <hi>Rochester</hi> to the abovesaid Mr. <hi>Marnock,</hi> wherein is expressed in what great pomp and state this great Prince was intered in the Cathedral Church at <hi>Rochester.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be sold by <hi>R. Vaughan,</hi> in Saint <hi>Martins,</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:44498:2"/>
+            <p>We cannot sufficiently bewail the iniquity of these last and worst dayes of the world, in which the crying and scar<g ref="char:EOLhyphen"/>let sin of Murther makes so ample and so bloody a progession, that notwithstanding God hath shewn in this our Nation his just judgements upon such bloody miscreants, especial<g ref="char:EOLhyphen"/>ly upon those that have come to that height of wickednesse, to imbrue their hands in their Princes blood, yet now we can scarce turn our ear or eye any where, but we shal be infor<g ref="char:EOLhyphen"/>ced either to hear with pitty the mournful effects, or to see with grief the lamentable Tragedies thereof, as if we were become such wretched and execrable Atheists, to believe <hi>There were no Heaven to reward the Righteous, or Hell to punish such miscreants,</hi> Mat. <hi>25.34.41.</hi> but that all people that wish good either to their bodies or souls, may hate that crying sin of murther, we have put forth this fol<g ref="char:EOLhyphen"/>lowing Narrative.</p>
+            <p>
+               <hi>
+                  <seg rend="decorInit">C</seg>Ossuma Albertus</hi> a Prince of <hi>Transilvania,</hi> being by the <hi>Turks</hi> and <hi>Tartars</hi> forced to flee his Countrey for succour and relief, about 14 months since arrived in <hi>England,</hi> and took up his Lodgings at the <hi>George</hi> Inn in <hi>Lumbar street.</hi> A little time after his coming he made his Adress, with a Letter he had from the Em<g ref="char:EOLhyphen"/>peror of <hi>Germany</hi> to our Soveraign Lord King <hi>Charles,</hi> who gave him a benevolence worthy his acceptance; <hi>This we received from a person that was then his servant,</hi>
+               <pb n="3" facs="tcp:44498:2"/> having been here a few moneths, he went for <hi>France,</hi> and afterwards to <hi>Flanders,</hi> in both which he was ve<g ref="char:EOLhyphen"/>ry nobly treated; then he returning to <hi>England,</hi> land<g ref="char:EOLhyphen"/>ed at <hi>Rye</hi> in <hi>Kent</hi> with his Charriot and two Servants; In <hi>Kent</hi> he visited many Persons of quality, amongst the rest, the Right Honourable the Lord <hi>Dacres</hi> and his Lady, who gave him Noble entertainment two dayes and nights; when the said Prince prepares to go for <hi>London,</hi> the Lord <hi>Dacres</hi> offers him the use of his Coach and Horses up to <hi>London,</hi> his being poor and unfit to travel, which he thankfully refusing, said he durst not trust his own Coach-man, having but lately retained him at <hi>Deep</hi> in <hi>France;</hi> departing from thence, he intends for <hi>Copi-hall</hi> to visit the Duke of <hi>Richmond,</hi> but was by his wicked Servants prevented from either seeing that Duke or any other in this World, for they, <hi>viz.</hi> the Coach-man and Foot-boy, as they have since confessed, having agreed to mur<g ref="char:EOLhyphen"/>ther their Prince and Master three dayes before, and waited onely for an oppertunity; it so happened that the Charriot as they were going on their way in the evening, (it being a wilful mistake of the Charriot man to go out of the way, that he might have the op<g ref="char:EOLhyphen"/>portunity to work his Divelish design) the Charriot stuck so fast in some slow, that they were forced to call for help, there being Country men with Horses near hand, which set them at liberty; but driving, not far distant they were set again, and the night drawing on, they could get no help; Therefore the Prince resolved to rest in his Charriot all the night; And being lame, caused his Page to pull off his coat, and wrapt it about him to keep him warm, and so set<g ref="char:EOLhyphen"/>led himself to sleep; This was in the Parish of <hi>Stroud</hi> within a mile of <hi>Rochester,</hi> being Tuesday, the 15. day of this present <hi>October</hi> 1661. He being thus laid
+<pb n="4" facs="tcp:44498:3"/> to rest and fast a sleep, his Coach man whose name is <hi>Isaac Jacob,</hi> alias <hi>Jacques,</hi> by Religion a Jew, about mid<g ref="char:EOLhyphen"/>night takes the Princes Shavil or Hanger from under his Head, where he usually laid it, there being none present but himself and the Page, and therewith he stab'd him in two or three places upon his breast, upon which he cryed out in his own Language, <hi>Lord have mercy upon my Soul, what have I done that you should kill me, do you think thereby to be Master of my Countrey?</hi> Then both of them drag'd him out of his Charriot a little distance, and there cut off his Head, and his left Arm, and out and mangled his Face, and picked out his eyes that none might know who he was; He was found with Scarlet Breeches, and Stockings laced with Gold lace, and pearl colour silk hose under them; His Charriot still remaining fast in the mire till morning; They drew the Curtains very close, that their Princes absence should not be discovered, which being done with some help, they freed the Charriot from thence, and drew to <hi>Greenhith</hi> three miles from <hi>Gravesend.</hi> When they came there, they called for the Master of the House, and told him that their Prince had taken a pair of Oars at <hi>Gravesend,</hi> and was gone for <hi>London;</hi> And therefore desired that the Chariot and Horses should be well looked to, and about eight or ten daies hence they would come and content him, for now they must after their Master to <hi>London.</hi>
+            </p>
+            <p>On Saturday following this Princes body was dis<g ref="char:EOLhyphen"/>covered by a dog, who brought that arm they had cut-off from his body, into a field where some men were at work, who presently gave intelligence to the Town, upon which search was made, and both his head and body were found in the places as before is related.</p>
+            <p>The discovering and apprehending of these mur<g ref="char:EOLhyphen"/>therers was as followeth; it so happened that on fry<g ref="char:EOLhyphen"/>day
+<pb n="5" facs="tcp:44498:3"/> the 18 of this Instant, there came into the Shop of Captain <hi>Blaney</hi> sword-cutler in <hi>Burchen Lane</hi> these two Murtherers, to barter away their Princes Shavel or Hanger, but they could not agree; The page having on his arme a bag of money sealed up with about 20 seals, and the coach-man a silk purse with a conside<g ref="char:EOLhyphen"/>rable sum of Spanish Gold Pistobots in it.</p>
+            <p>They came to the same place again on Saturday, and upon the munday following they came to the white Bear to Mr. <hi>Turners</hi> to buy new cloaths; but the murther being neither then known or heard of, there they were not in the least suspected; But within half an hour after, Mr. <hi>Nathaniel Mannock</hi> a Grocer in <hi>Leaden-hall Street,</hi> who came the day before from <hi>Rochester,</hi> and having taken a view of the body of the Prince, came to the house of Captain <hi>Wilmore,</hi> next door to Captain <hi>Blaneys,</hi> relating what he had seen of that murther; The people saying that the murther was committed by his own Servants, at which they be<g ref="char:EOLhyphen"/>gan to mistrust these fellows; whereupon Capt. <hi>Wil<g ref="char:EOLhyphen"/>more</hi> sent to Capt. <hi>Blaney,</hi> who when he had heard this report, he affirmed that one of them that offered him the Hanger, was to his knowledge servant to the afore<g ref="char:EOLhyphen"/>said murthered Prince, who lay at the George in <hi>Lum<g ref="char:EOLhyphen"/>bar Street;</hi> and comparing these things together, they went and acquainted the Lord Mayor of what they then suspected. Whereupon the Lord Mayor gave them order to make a strict inquiry after them, which they did as followeth. Captain <hi>Wilmore</hi> about some half an hour before this report was made, saw the Coach-man pass by his door with one <hi>Samuel</hi> a <hi>Jew,</hi> well known to himself and Capt. <hi>Blaney,</hi> and the place of his abode; And thereupon furnishing himself, and Capt. <hi>Wilmore,</hi> Mr. <hi>Mannock,</hi> Mr. <hi>Ecclestone</hi> with Arms; They presently went down to the fiery Becon,
+<pb n="6" facs="tcp:44498:4"/> a victualling house in <hi>Cree Church lane,</hi> the lodging of the aforesaid <hi>Samuel</hi> the Jew, to enquire after the man that was that day with him in <hi>Burchen lane;</hi> And being well acquainted with the said Jew, at first sight bid them welcome, and caused them to go up into his Chamber with him, where presently he espied the said Coachman being very jovial, there being 8 or 10 Jews more at that time in the room with him, &amp; mu<g ref="char:EOLhyphen"/>sick playing to him Capt. <hi>Blaney</hi> and Capt. <hi>Wilmore</hi> after they had stayed above a short time, came down, and called up Mr. <hi>Mannock</hi> and Mr. <hi>Eccleston,</hi> who stayed at the door below; And then all went up with their swords drawn, Capt. <hi>Blaney</hi> desiring them to secure the door, layed hands on the supposed murtherer, and told him (presenting his pistoll to his brest) that he was his Prisoner, which striking amazement to the rest of the Jews, they cryed out, what do you come to murther us? Then was silence made, the murtherer being searched by Mr. <hi>Mannock</hi> and Mr. <hi>Ecclestone,</hi> they found only a naked knife, and two dollors and some other small money about him.</p>
+            <p>Then Capt. <hi>Blaney</hi> asked the Jew, where his man was that with him offered the shavle or hanger at his shop on fryday and saturday last, which he denyed, and said, that he had no such man; Upon which the maid of the house was called, and was askt how long it was since that Gentlemans man was there, she said a<g ref="char:EOLhyphen"/>bout 2 hours before, but still he disowned any servant.</p>
+            <p>Then they sending for a Constable, charged him to take that person into safe custody upon suspition of murder. Then enquiring after his lodging, went thi<g ref="char:EOLhyphen"/>ther to inquire for the <hi>Page,</hi> who then went for the said Coach-mans servant, he styling himself a Merchant, which was at the house of one Mis. <hi>Greenbank;</hi> and coming thither they enquired for the Jews man, she
+<pb n="7" facs="tcp:44498:4"/> replied that he was gone to <hi>Graves-end</hi> with his Masters Trunk and Portmantle, and that he would return that night or the next morning; they commanded her to secure all that belonged to the said pretended Mer<g ref="char:EOLhyphen"/>chant or servant, she having in her custody a bag con<g ref="char:EOLhyphen"/>taining 125 French crowns, his shavel and hanger co<g ref="char:EOLhyphen"/>vered with crimson Velvet sutable to his furniture, a very rich Saddle with 2 bridles and some other things belonging to the Prince; Then going back to the Prisoner, they had him before the Lord Mayor where he was examined, but would confess nothing, only that he was lately Interpreter to the Prince of <hi>Conde,</hi> where he had got some Estate.</p>
+            <p>After they pursuing their enquiry, understood who was the Porter that carryed away the Trunk, and finding him he informed them where he left the Trunk, and the Page, which was at the sign of the <hi>Flushing</hi> near St. <hi>Katherns.</hi> They repairing thither a<g ref="char:EOLhyphen"/>bout 10 a clock at night found him in bed, where was also the Trunk and Port-mantle; they seized on him, and commited him to the <hi>Counter</hi> for that night. The next morning being carried before the Lord Mayor, he after some Interrogatories, and fair words to have him confess the truth, discovered in his confession the whole murther as before is related, and acknowledg<g ref="char:EOLhyphen"/>ed his name to be <hi>Casimirus Karsagi.</hi> The Lord Mayor ordered a further Examination of them face to face, which was appointed at 5 a clock in the afternoon the next day, where the Coach-man understanding that the Page had discovered the murther, did acknow<g ref="char:EOLhyphen"/>ledge that he was the Princes Servant, and did come from <hi>France</hi> with him, and was with him every night to the night before he was murthered, Mr. <hi>Mannock</hi> certified the Mayor of <hi>Rochester</hi> concerning these
+<pb n="8" facs="tcp:44498:5"/> proceedings, upon which the Mayor returned this following letter.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>For Mr. <hi>Nathaniel Mannock</hi> at the <hi>Bird</hi> in <hi>Hand</hi> in <hi>Leaden-Hall Street,</hi> These.</head>
+                  <opener>
+                     <salute>Noble Sir.</salute>
+                  </opener>
+                  <p>YOur Letter we received, and are glad to understand the parties are apprehended that committed the murther upon their Master the Prince of <hi>Poland,</hi> it gives much satisfaction to our neighbours, that they have confessed the fact; be pleased Sir to let the Lord Mayor know that on Tuesday night last he was honorably Interred in our Cathedral Church, accompained with the Gentry and Communal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y of our City and Parishes adjacent with what magnificence decency, and order our parts could afford, Sir I shall trouble you no further but subscribe my self,</p>
+                  <closer>
+                     <signed>Your Humble Servant, THOMAS MAY, Mayor.</signed>
+                     <dateline>Rochester,
+<date>
+                           <hi>24th.</hi> October, <hi>1661.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:44498:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
